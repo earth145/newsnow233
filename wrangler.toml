@@ -4,6 +4,8 @@ compatibility_date = "2024-10-03"
 
 [vars]
 G_CLIENT_ID = "Ov23livf2VCrTLephXE5"
+G_CLIENT_SECRET = "e49935aaa485ba46bf5c2092b328ff65b9ac4587"
+JWT_SECRET = "66666"
 INIT_TABLE = "true"
 ENABLE_CACHE = "true"
 
