@@ -2,6 +2,11 @@ name = "newsnow233"
 pages_build_output_dir = "dist/output/public"
 compatibility_date = "2024-10-03"
 
+[vars]
+G_CLIENT_ID = "Ov23livf2VCrTLephXE5"
+INIT_TABLE = "true"
+ENABLE_CACHE = "true"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "newsnow233"
