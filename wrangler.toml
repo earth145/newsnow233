@@ -11,5 +11,5 @@ ENABLE_CACHE = "true"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "newsnows233"
-database_id = "7a379cc7-3c0a-49c2-9a06-e7b060c727ed"
+database_name = "new"
+database_id = "1e75696c-3d94-4b37-a0ba-f765a62b7aeb"
